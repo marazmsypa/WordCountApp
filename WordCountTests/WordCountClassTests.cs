@@ -5,7 +5,7 @@ using WordCountLibrary;
 namespace WordCountTests
 {
     [TestClass]
-    public class UnitTest1
+    public class WordCountClassTests
     {
         WordCountClass testedObj = new WordCountClass();
         /// <summary>
